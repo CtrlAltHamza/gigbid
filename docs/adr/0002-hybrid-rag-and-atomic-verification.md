@@ -21,3 +21,4 @@ Standard RAG architectures applied to technical freelance bidding exhibit two cr
 ## Consequences
 - **Positive**: 28% improvement in Recall@5 over baseline; zero ungrounded metric claims in production proposals; Cohen's Kappa inter-rater agreement of $\kappa = 0.866$.
 - **Negative**: Adds ~45ms per-claim verification latency, which is amortized within the background multi-agent superstep.
+

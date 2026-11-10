@@ -20,3 +20,4 @@ We implement a three-tier memory architecture with deterministic promotion rules
 ## Consequences
 - **Positive**: Continuous, transparent self-improvement; user maintains full auditability and veto power over learned rules; no prompt bloat.
 - **Negative**: Requires structured distillation prompts to extract clean, generalized rules from raw rejection comments.
+

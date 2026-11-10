@@ -22,3 +22,4 @@ Monolithic single-prompt agent systems suffer from context pollution, high laten
 ## Consequences
 - **Positive**: Cuts pre-draft analysis latency by 58% via parallelization; prevents infinite revision loops; guarantees zero accidental spending of Connects.
 - **Negative**: Requires careful typed state management to prevent `InvalidUpdateError` in concurrent supersteps.
+

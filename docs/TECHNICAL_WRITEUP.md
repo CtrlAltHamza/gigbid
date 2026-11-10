@@ -157,3 +157,4 @@ In benchmarks across the 600-job annotated dev set, GigBid demonstrated substant
 - **Conversion Performance**: In simulated bidding across 42 jobs, GigBid achieved a **57.1% client reply rate** and a **28.6% hire rate**, representing a **48.2× Connects ROI**.
 
 By uniting Model Context Protocol isolation, hybrid retrieval with NLI claim verification, LangGraph stateful orchestration, and human-in-the-loop safeguards, GigBid provides a blueprint for safe, effective, and economically rational autonomous agents in high-stakes professional marketplaces.
+

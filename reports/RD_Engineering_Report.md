@@ -134,3 +134,4 @@ In automated testing (`tests/unit/test_extension_x3.py`), synthetically planted 
 ## Conclusion
 
 GigBid establishes that high-stakes autonomous agentic workflows require strict tool privilege separation (MCP), verified lexical-dense retrieval with NLI claim checking, stateful parallel graph orchestration with bounded critique loops, and human-in-the-loop financial safeguards. Across 600 evaluated jobs, GigBid achieved **100% scam neutralization**, **9.6/10 evidence groundedness**, **$\kappa = 0.866$ judge agreement**, and **0 accidental Connects spent**, providing an enterprise-ready copilot for technical freelancers.
+

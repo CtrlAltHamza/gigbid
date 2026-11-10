@@ -332,3 +332,4 @@ def build_pdf(output_path: str = "reports/RD_Engineering_Report.pdf"):
 
 if __name__ == "__main__":
     build_pdf()
+

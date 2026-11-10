@@ -89,3 +89,4 @@
 - [x] Clean browser profile with dark mode enabled.
 - [x] Audio track: Noise-suppressed condenser mic with clear articulation.
 - [x] Export format: MP4 1080p H.264 with AAC audio, duration exactly 3 minutes.
+
