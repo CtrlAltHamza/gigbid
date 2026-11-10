@@ -163,3 +163,4 @@ def reindex_incremental(item: dict[str, Any], persona_id: str = "ai_engineer") -
         INCREMENTAL_STORE[persona_id] = []
     INCREMENTAL_STORE[persona_id].append(chunk)
     return chunk
+

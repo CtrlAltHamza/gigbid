@@ -49,3 +49,4 @@ def retrieve(query: str, chunks: list[DocumentChunk], k: int = 5) -> list[dict[s
         }
         for cid, score in sorted_items
     ]
+

@@ -38,3 +38,4 @@ Add to your `claude_desktop_config.json`:
   }
 }
 ```
+

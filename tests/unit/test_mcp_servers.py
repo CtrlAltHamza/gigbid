@@ -93,3 +93,4 @@ async def test_agent_tool_allowlist_enforcement():
 
     with pytest.raises(PermissionError):
         await mgr.execute_tool("scout", "submit_proposal", {"job_id": "test"})
+

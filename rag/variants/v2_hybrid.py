@@ -40,3 +40,4 @@ def retrieve(query: str, chunks: list[DocumentChunk], k: int = 5, k_rrf: float =
         }
         for cid, score in sorted_items
     ]
+

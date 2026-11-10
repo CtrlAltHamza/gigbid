@@ -65,3 +65,4 @@ class MessageResponse(BaseModel):
     timestamp: str
     status: str = "sent"
     dry_run: bool = False
+

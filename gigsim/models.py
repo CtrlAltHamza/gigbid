@@ -81,3 +81,4 @@ class Message(BaseModel):
     content: str
     timestamp: str = Field(default_factory=lambda: datetime.datetime.now(datetime.timezone.utc).isoformat())
     intent: str | None = None
+

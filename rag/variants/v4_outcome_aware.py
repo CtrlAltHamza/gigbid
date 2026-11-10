@@ -36,3 +36,4 @@ def retrieve(query: str, chunks: list[DocumentChunk], k: int = 5) -> list[dict[s
 
     scored.sort(key=lambda x: x["score"], reverse=True)
     return scored[:k]
+

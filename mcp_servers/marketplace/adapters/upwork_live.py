@@ -92,3 +92,4 @@ class UpworkLiveAdapter:
             "status": "draft_message_staged",
             "notice": "Client message staged for user confirmation on Upwork."
         }
+

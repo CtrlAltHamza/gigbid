@@ -23,3 +23,4 @@ class BM25Index:
         indexed_scores = [(self.chunks[i], round(float(scores[i] / max_score), 4)) for i in range(len(self.chunks))]
         indexed_scores.sort(key=lambda x: x[1], reverse=True)
         return indexed_scores[:k]
+

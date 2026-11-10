@@ -49,3 +49,4 @@ def retrieve(query: str, chunks: list[DocumentChunk], k: int = 5) -> list[dict[s
 
     reranked.sort(key=lambda x: x["score"], reverse=True)
     return reranked[:k]
+

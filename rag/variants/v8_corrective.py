@@ -67,3 +67,4 @@ def retrieve(query: str, chunks: list[DocumentChunk], k: int = 5) -> list[dict[s
         }
         for item in final_evidence
     ]
+

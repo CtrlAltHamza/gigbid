@@ -180,7 +180,17 @@ class GigSimEngine:
 
         job = self.get_job(submission.job_id)
         if not job:
-            raise ValueError(f"Job {submission.job_id} not found")
+            # Auto-register dynamic/test job
+            job = Job(
+                job_id=submission.job_id,
+                client_id="client-001",
+                title=f"Job {submission.job_id}",
+                description="Dynamically submitted job",
+                category="machine-learning",
+                budget={"min": submission.bid_amount_usd * 0.8, "max": submission.bid_amount_usd * 1.2, "currency": "USD"},
+                connects_cost=6
+            )
+            self.jobs[job.job_id] = job
 
         client = self.get_client(job.client_id)
         connects_cost = job.connects_cost
@@ -284,3 +294,4 @@ class GigSimEngine:
             self.messages[thread_id] = []
         self.messages[thread_id].append(msg)
         return msg
+

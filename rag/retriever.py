@@ -47,3 +47,4 @@ class GigBidRetriever:
 
     def retrieve_evidence(self, query: str, k: int = 5) -> list[dict[str, Any]]:
         return self.retrieve_fn(query=query, chunks=self.chunks, k=k)
+

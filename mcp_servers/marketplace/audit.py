@@ -26,3 +26,4 @@ def log_audit_event(
     }
     with open(AUDIT_LOG_FILE, "a", encoding="utf-8") as f:
         f.write(json.dumps(entry) + "\n")
+

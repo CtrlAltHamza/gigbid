@@ -135,3 +135,4 @@ def reset_state():
 def set_error_rate(rate: float):
     engine.error_injection_rate = max(0.0, min(1.0, rate))
     return {"status": "updated", "error_injection_rate": engine.error_injection_rate}
+

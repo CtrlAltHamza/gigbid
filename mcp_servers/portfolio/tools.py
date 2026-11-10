@@ -152,3 +152,4 @@ def list_skills(persona_id: str = "ai_engineer") -> list[str]:
         elif "data_analyst" in persona_id:
             skills.extend(["SQL", "dbt", "Tableau", "Snowflake", "PowerBI", "pandas", "Metabase", "ETL"])
     return sorted(list(set(skills)))
+

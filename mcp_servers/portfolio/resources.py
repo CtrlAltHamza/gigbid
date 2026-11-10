@@ -26,3 +26,4 @@ def get_proposal_resource(proposal_id: str) -> str:
             except Exception:
                 continue
     return f"Proposal '{proposal_id}' not found."
+

@@ -49,3 +49,4 @@ def test_incremental_reindexing():
     }
     chunk = reindex_incremental(new_item, persona_id="ai_engineer")
     assert chunk.chunk_id == "new-case-study-99"
+

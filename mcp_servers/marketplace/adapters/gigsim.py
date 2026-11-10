@@ -119,3 +119,4 @@ class GigSimAdapter:
             pass
         msg = self.engine.send_message(thread_id, sender_id, recipient_id, content)
         return msg.model_dump()
+
