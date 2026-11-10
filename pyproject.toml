@@ -19,5 +19,14 @@ dependencies = [
 [project.optional-dependencies]
 dev = ["pytest", "pytest-asyncio", "ruff", "mypy"]
 
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["agent*", "rag*", "mcp_servers*", "gigsim*", "worker*", "apps*"]
+
 [tool.ruff]
 line-length = 100
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+asyncio_default_fixture_loop_scope = "function"
+
