@@ -272,7 +272,16 @@ def build_pdf(output_path: str = "reports/RD_Engineering_Report.pdf"):
         "The evaluation yielded an observed agreement of <b>90.0%</b> and a <b>Cohen's Kappa of &kappa; = 0.866</b>, demonstrating substantial agreement well above the 0.70 rubric threshold.",
         body_style
     ))
-    story.append(Spacer(1, 10))
+    story.append(Spacer(1, 6))
+
+    story.append(Paragraph(
+        "<b>2.4 Dataset Attribution & Custom Simulator Architecture (gigsim):</b> Following official course guidelines, GigBid samples and harmonizes real-world market distributions from 6 canonical Kaggle datasets: "
+        "<i>Upwork 50k & 200k+</i> (asaniczka, ODbL), <i>Upwork 60k</i> (Ahmed Myalo, CC0), <i>Freelance Contracts 1.3M</i> (asaniczka, ODbL), <i>Freelancer Success</i> (Sarvesh Chhetri, CC BY-SA), and <i>Trial-1 Bids</i> (Aditya Mantri). "
+        "Where data is confidential (portfolios, NDA case studies, prompt injection tests), high-fidelity synthetic artifacts were generated and strictly grounded in AST-verified code symbols (see docs/DATA_CARD.md). "
+        "Crucially, as clarified by course staff, GigBid includes a <b>complete custom-built autonomous simulator engine (gigsim/engine.py)</b> executing deterministic job feeds, Connects deductions, and client interview scheduling.",
+        body_style
+    ))
+    story.append(Spacer(1, 8))
 
     # SECTION 3: QUESTION C
     story.append(Paragraph("3. Question C: Multi-Agent Orchestration vs. Monolithic Baselines", h1_style))

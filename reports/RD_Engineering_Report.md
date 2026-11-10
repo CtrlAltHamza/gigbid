@@ -84,6 +84,16 @@ To guarantee rigorous automated evaluation, our LLM judge (`gemini-2.5-pro`) was
   $$\kappa = \frac{P_o - P_e}{1 - P_e} = \frac{0.900 - 0.254}{1 - 0.254} = \mathbf{0.866}$$
 A $\kappa$ of **0.866** represents "Substantial / Almost Perfect Agreement" under standard Fleiss/Landis-Koch guidelines, significantly surpassing the 0.70 assignment threshold.
 
+### 2.4 Dataset Selection, Attribution & Custom Simulator Architecture (`gigsim`)
+Following official course instructions regarding dataset usage and attribution, GigBid unifies empirical open datasets with a custom-engineered marketplace simulator:
+1. **Real-World Empirical Attribution**: We sampled and harmonized distributions from 6 canonical Kaggle datasets:
+   - *Upwork Job Postings 2024 (50k)* & *All Jobs on Upwork (200k+)* (asaniczka, ODbL): Skill tag co-occurrences, hourly rate percentiles, and connects bands.
+   - *Upwork Freelance Jobs 60k* (Ahmed Myalo, CC0): Natural-language job descriptions and milestone budgets.
+   - *Freelance Contracts Dataset (1.3M)* (asaniczka, ODbL): Proposal-to-hire conversion rates and historical contract values.
+   - *Freelancer Success & Churn* (Sarvesh Chhetri, CC BY-SA) & *Trial-1 Bids* (Aditya Mantri): Pricing dispersion and interview ratios.
+2. **Deterministic Custom Simulator (`gigsim`)**: As confirmed by course staff, GigBid implements an autonomous simulator engine (`gigsim/engine.py`) providing full-text job search, proposal submission with idempotent Connects deduction, client hiring evaluation against hidden preference vectors, and automated message thread generation.
+3. **Synthetic Grounding & Separation**: Where real data is unavailable (confidential client source code, NDA case studies, and adversarial prompt injections), high-fidelity synthetic portfolios were generated and verified against AST code symbols, strictly distinguishing empirical distributions from synthetic validation artifacts (see `docs/DATA_CARD.md`).
+
 ---
 
 ## Section 3: Question C — Multi-Agent Orchestration vs. Monolithic Baselines

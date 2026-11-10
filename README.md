@@ -22,7 +22,9 @@
 | Deliverable | Location / URL | Status |
 | :--- | :--- | :---: |
 | **Public GitHub Repository** | [github.com/CtrlAltHamza/gigbid](https://github.com/CtrlAltHamza/gigbid) | **Live** |
-| **Deployed Web Application** | [gigbid.up.railway.app](https://gigbid.up.railway.app) *(or `http://localhost:3000`)* | **Live** |
+| **Deployed Web Application (Vercel)** | [gigbid-orpin.vercel.app](https://gigbid-orpin.vercel.app) | **Live** |
+| **Live Backend API (Render)** | [gigbid-b8sq.onrender.com](https://gigbid-b8sq.onrender.com) | **Live** |
+| **Dataset Card & Kaggle Attribution** | [`docs/DATA_CARD.md`](docs/DATA_CARD.md) (6 Kaggle Datasets + Simulator) | **Complete** |
 | **3-Minute Demo Video** | [Watch 3-Min Walkthrough Video](https://youtu.be/gigbid-demo) | **Available** |
 | **Published Portfolio MCP Server** | [`mcp_servers/portfolio/`](mcp_servers/portfolio/) (FastMCP / `uvx` ready) | **Published** |
 | **Technical Write-Up (1,500 words)** | [`docs/TECHNICAL_WRITEUP.md`](docs/TECHNICAL_WRITEUP.md) | **Complete** |
