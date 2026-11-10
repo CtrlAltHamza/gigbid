@@ -1,3 +1,103 @@
-# TODO: Define web, API, worker, MCP servers, GigSim, Postgres, Redis,
-# vector store and local model service as appropriate.
-services: {}
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: ..
+      dockerfile: infra/docker/Dockerfile.web
+    ports:
+      - "3000:80"
+    depends_on:
+      api:
+        condition: service_healthy
+    networks:
+      - gigbid-network
+    restart: unless-stopped
+
+  api:
+    build:
+      context: ..
+      dockerfile: infra/docker/Dockerfile.api
+    ports:
+      - "8000:8000"
+    environment:
+      - GIGBID_ENV=production
+      - UPWORK_MARKETPLACE_MODE=simulator
+      - GIGSIM_URL=http://gigsim:8001
+      - REDIS_URL=redis://redis:6379/0
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+    volumes:
+      - gigbid-data:/app/data
+    depends_on:
+      gigsim:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - gigbid-network
+    restart: unless-stopped
+
+  gigsim:
+    build:
+      context: ..
+      dockerfile: infra/docker/Dockerfile.gigsim
+    ports:
+      - "8001:8001"
+    environment:
+      - GIGSIM_PORT=8001
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - gigbid-network
+    restart: unless-stopped
+
+  worker:
+    build:
+      context: ..
+      dockerfile: infra/docker/Dockerfile.worker
+    environment:
+      - GIGBID_ENV=production
+      - GIGSIM_URL=http://gigsim:8001
+      - REDIS_URL=redis://redis:6379/0
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+    volumes:
+      - gigbid-data:/app/data
+    depends_on:
+      api:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - gigbid-network
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - gigbid-network
+    restart: unless-stopped
+
+networks:
+  gigbid-network:
+    driver: bridge
+
+volumes:
+  gigbid-data:
+  redis-data:

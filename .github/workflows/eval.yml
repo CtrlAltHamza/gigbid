@@ -1,0 +1,50 @@
+name: Nightly Eval Gates
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Every night at 02:00 UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  run-evals:
+    name: Run Benchmark Evaluations
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]"
+
+      - name: Run LLM Judge Calibration Benchmark
+        run: |
+          python -m evals.runners.judge_calibration
+
+      - name: Run Tool Design Benchmark
+        run: |
+          python -m evals.runners.tool_design_eval
+
+      - name: Run RAG Ablation Benchmark
+        run: |
+          python -m evals.runners.ablation
+
+      - name: Run Multi-Agent Comparison Benchmark
+        run: |
+          python -m evals.runners.multi_agent_comparison
+
+      - name: Verify Results Present
+        run: |
+          ls -la evals/results/
+          test -f evals/results/judge_calibration.json
+          test -f evals/results/tool_design_results.json
+          test -f evals/results/ablation_results.json
+          test -f evals/results/multi_agent_comparison.json
