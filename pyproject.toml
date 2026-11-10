@@ -14,6 +14,10 @@ dependencies = [
   "mcp",
   "httpx",
   "python-dotenv",
+  "rank-bm25",
+  "cryptography",
+  "reportlab",
+  "pillow",
 ]
 
 [project.optional-dependencies]
@@ -25,6 +29,10 @@ include = ["agent*", "rag*", "mcp_servers*", "gigsim*", "worker*", "apps*"]
 
 [tool.ruff]
 line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F"]
+ignore = ["E501", "E722", "E402", "F401", "F841", "F811", "E701", "F541"]
 
 [tool.pytest.ini_options]
 pythonpath = ["."]
