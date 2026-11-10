@@ -1,7 +1,9 @@
 import { Job, Proposal, MessageThread, AgentRun, MemoryRule, UserSettings, AnalyticsSummary } from '../types';
 import { INITIAL_JOBS, INITIAL_PROPOSALS, INITIAL_MESSAGES, INITIAL_RUNS, INITIAL_RULES, INITIAL_ANALYTICS } from './mockData';
 
-const BASE_URL = '/api';
+// Dynamic API URL for Vercel -> Hugging Face deployment
+const API_HOST = ((import.meta as any).env?.VITE_API_URL || '').replace(/\/$/, '');
+const BASE_URL = API_HOST ? `${API_HOST}/api` : '/api';
 
 class ApiService {
   private token: string | null = null;

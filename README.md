@@ -1,3 +1,13 @@
+---
+title: GigBid Copilot API
+emoji: 💼
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # GigBid — Autonomous Multi-Agent Freelancer Copilot
 
 [![CI](https://github.com/CtrlAltHamza/gigbid/actions/workflows/ci.yml/badge.svg)](https://github.com/CtrlAltHamza/gigbid/actions/workflows/ci.yml)
