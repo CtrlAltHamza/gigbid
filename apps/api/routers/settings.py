@@ -47,3 +47,4 @@ def delete_learned_style_rule(index: int):
     if not success:
         raise HTTPException(status_code=404, detail="Rule index not found")
     return {"status": "rule_deleted", "remaining_rules": memory_store.get_style_rules()}
+

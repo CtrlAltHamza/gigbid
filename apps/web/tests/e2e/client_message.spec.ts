@@ -24,3 +24,4 @@ test.describe('Client Messaging & Workspace MCP', () => {
     await expect(page.getByText('Interview hold confirmed via Workspace MCP')).toBeVisible();
   });
 });
+

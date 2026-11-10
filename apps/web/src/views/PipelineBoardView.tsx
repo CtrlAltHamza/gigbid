@@ -221,3 +221,4 @@ export const PipelineBoardView: React.FC = () => {
     </div>
   );
 };
+

@@ -37,3 +37,4 @@ test.describe('Happy Path: Scouting to Submission', () => {
     await expect(page.locator('text=Submitted')).toBeVisible();
   });
 });
+

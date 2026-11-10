@@ -56,3 +56,4 @@ def test_api_analytics_and_settings_memory():
     mem_data = memory_res.json()
     assert "style_memory_rules" in mem_data
     assert len(mem_data["style_memory_rules"]) > 0
+

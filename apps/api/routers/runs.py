@@ -38,3 +38,4 @@ def get_run_details(thread_id: str):
         "next_nodes": state.next,
         "trace": state.values.get("execution_trace", [])
     }
+

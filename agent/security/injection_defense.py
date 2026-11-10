@@ -45,3 +45,4 @@ def sanitize_untrusted_input(text: str, context_label: str = "UNTRUSTED_CONTENT"
         f"{safe_text}\n"
         f"</{context_label}>"
     )
+

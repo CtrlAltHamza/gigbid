@@ -378,3 +378,4 @@ export const ProposalStudioView: React.FC = () => {
     </div>
   );
 };
+

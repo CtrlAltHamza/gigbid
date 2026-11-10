@@ -53,3 +53,4 @@ def resume_approval(thread_id: str, action_req: ProposalActionRequest):
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to resume thread: {str(e)}")
+

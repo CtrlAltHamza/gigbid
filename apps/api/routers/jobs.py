@@ -82,3 +82,4 @@ def get_job_detail(job_id: str, persona_id: str = "ai_engineer"):
             "roi_ratio": 58.3
         }
     }
+

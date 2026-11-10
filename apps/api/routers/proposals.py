@@ -16,3 +16,4 @@ def get_proposal_detail(proposal_id: str):
     if not prop:
         raise HTTPException(status_code=404, detail="Proposal not found")
     return prop.model_dump()
+

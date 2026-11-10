@@ -22,3 +22,4 @@ COPY worker/ ./worker/
 COPY data/ ./data/
 
 CMD ["python", "-m", "worker"]
+

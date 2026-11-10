@@ -32,3 +32,4 @@ def test_outcome_memory_promotion_rule():
         evidence_ids=[]
     )
     assert invalid is False
+

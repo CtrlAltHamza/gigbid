@@ -59,3 +59,4 @@ class WorkerScheduler:
         logger.info("Stopping WorkerScheduler gracefully...")
         self.is_running = False
         self._stop_event.set()
+

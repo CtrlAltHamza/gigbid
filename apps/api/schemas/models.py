@@ -32,3 +32,4 @@ class SettingsUpdateRequest(BaseModel):
     autonomy_level: Literal["manual", "semi-autonomous", "auto-skip"] | None = None
     minimum_fit_score: float | None = None
     maximum_risk_score: float | None = None
+

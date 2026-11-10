@@ -22,3 +22,4 @@ test.describe('Degraded Mode & Simulator Fallback', () => {
     await expect(page.getByText('Upwork Live Adapter Connected')).toBeVisible();
   });
 });
+

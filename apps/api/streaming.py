@@ -56,3 +56,4 @@ async def stream_job_analysis(job: dict[str, Any], persona_id: str, thread_id: s
     except Exception as e:
         active_threads[thread_id]["status"] = "error"
         yield f"event: error\ndata: {json.dumps({'thread_id': thread_id, 'error': str(e)})}\n\n"
+

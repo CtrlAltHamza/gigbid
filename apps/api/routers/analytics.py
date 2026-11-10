@@ -56,3 +56,4 @@ def get_analytics():
         "rag_benchmarks": rag_data,
         "multi_agent_comparison": arch_data
     }
+

@@ -257,3 +257,4 @@ export const JobDetailView: React.FC = () => {
     </div>
   );
 };
+

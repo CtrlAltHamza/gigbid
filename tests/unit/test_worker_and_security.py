@@ -41,3 +41,4 @@ def test_worker_idempotency(tmp_path):
 
     store.mark_completed(task_key, task_type="bid_draft", status="completed")
     assert store.is_processed(task_key)
+

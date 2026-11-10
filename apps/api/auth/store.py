@@ -49,3 +49,4 @@ class UserStore:
         self.users[username] = data
 
 user_store = UserStore()
+

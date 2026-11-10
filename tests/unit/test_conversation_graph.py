@@ -33,3 +33,4 @@ def test_conversation_graph_flow():
     assert resumed["approval_status"] == "approved"
     assert "dispatched_message" in resumed
     assert resumed["dispatched_message"]["status"] == "sent"
+

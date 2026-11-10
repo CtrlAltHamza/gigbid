@@ -165,3 +165,4 @@ export interface AnalyticsSummary {
   avg_cost_per_bid_usd: number;
   outcomes_breakdown: Record<string, number>;
 }
+

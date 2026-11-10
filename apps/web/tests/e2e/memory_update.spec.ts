@@ -29,3 +29,4 @@ test.describe('Memory Store & Self-Correction', () => {
     await expect(page.getByText('Never quote hourly rates under $75/hr and avoid promising unpaid exploratory sprints.')).toBeVisible();
   });
 });
+

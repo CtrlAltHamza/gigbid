@@ -22,3 +22,4 @@ test.describe('Scam Defense Guardrails', () => {
     await expect(blockedBtn).toBeDisabled();
   });
 });
+
