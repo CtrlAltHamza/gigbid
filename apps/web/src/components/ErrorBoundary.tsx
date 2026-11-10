@@ -24,10 +24,17 @@ export class ErrorBoundary extends Component<Props, State> {
     console.error("Uncaught error caught by ErrorBoundary:", error, errorInfo);
   }
 
+  public componentDidUpdate(prevProps: Props) {
+    // Automatically reset error state when switching to another view
+    if (this.state.hasError && prevProps.children !== this.props.children) {
+      this.setState({ hasError: false, error: null });
+    }
+  }
+
   public render() {
     if (this.state.hasError) {
       return (
-        <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col items-center justify-center p-6 text-center font-sans">
+        <div className="py-12 px-6 flex flex-col items-center justify-center text-center font-sans">
           <div className="bg-slate-900 border border-slate-800 rounded-2xl p-8 max-w-lg space-y-4 shadow-2xl">
             <div className="w-12 h-12 rounded-xl bg-amber-500/20 text-amber-400 flex items-center justify-center mx-auto border border-amber-500/30">
               <AlertTriangle className="w-6 h-6" />
@@ -39,16 +46,15 @@ export class ErrorBoundary extends Component<Props, State> {
             <pre className="bg-slate-950 p-3 rounded-lg text-xs font-mono text-rose-300 overflow-x-auto text-left">
               {this.state.error?.message || "Unknown error"}
             </pre>
-            <button
-              onClick={() => {
-                localStorage.clear();
-                window.location.reload();
-              }}
-              className="bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold px-4 py-2.5 rounded-xl transition flex items-center space-x-2 mx-auto"
-            >
-              <RefreshCw className="w-3.5 h-3.5" />
-              <span>Reset Local Cache & Reload</span>
-            </button>
+            <div className="flex items-center justify-center space-x-3 pt-2">
+              <button
+                onClick={() => this.setState({ hasError: false, error: null })}
+                className="bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold px-4 py-2.5 rounded-xl transition flex items-center space-x-2"
+              >
+                <RefreshCw className="w-3.5 h-3.5" />
+                <span>Retry View</span>
+              </button>
+            </div>
           </div>
         </div>
       );
@@ -57,4 +63,3 @@ export class ErrorBoundary extends Component<Props, State> {
     return this.props.children;
   }
 }
-

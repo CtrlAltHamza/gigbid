@@ -114,7 +114,35 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         if (Array.isArray(r) && r.length > 0) setRuns(r);
         if (Array.isArray(rl) && rl.length > 0) setRules(rl);
         if (s && typeof s === 'object') setSettings(prev => ({ ...prev, ...s }));
-        if (a && typeof a === 'object') setAnalytics(prev => ({ ...prev, ...a }));
+        if (a && typeof a === 'object') {
+          const rawA = a as any;
+          setAnalytics(prev => ({
+            ...prev,
+            ...rawA,
+            connects_roi: typeof rawA.connects_roi === 'number' 
+              ? rawA.connects_roi 
+              : (typeof rawA.connects_roi === 'object' && rawA.connects_roi?.revenue_per_connect_usd 
+                  ? rawA.connects_roi.revenue_per_connect_usd 
+                  : prev.connects_roi),
+            connects_spent: typeof rawA.connects_spent === 'number' 
+              ? rawA.connects_spent 
+              : (rawA.connects_roi?.total_connects_spent ?? prev.connects_spent),
+            proposals_sent: typeof rawA.proposals_sent === 'number' 
+              ? rawA.proposals_sent 
+              : (rawA.connects_roi?.proposals_submitted ?? prev.proposals_sent),
+            hired_count: typeof rawA.hired_count === 'number' 
+              ? rawA.hired_count 
+              : (rawA.connects_roi?.contracts_won ?? prev.hired_count),
+            reply_rate: typeof rawA.reply_rate === 'number' ? rawA.reply_rate : prev.reply_rate,
+            hire_rate: typeof rawA.hire_rate === 'number' ? rawA.hire_rate : prev.hire_rate,
+            total_revenue_usd: typeof rawA.total_revenue_usd === 'number' ? rawA.total_revenue_usd : prev.total_revenue_usd,
+            avg_latency_seconds: typeof rawA.avg_latency_seconds === 'number' ? rawA.avg_latency_seconds : prev.avg_latency_seconds,
+            avg_cost_per_bid_usd: typeof rawA.avg_cost_per_bid_usd === 'number' ? rawA.avg_cost_per_bid_usd : prev.avg_cost_per_bid_usd,
+            outcomes_breakdown: rawA.outcomes_breakdown && typeof rawA.outcomes_breakdown === 'object' 
+              ? rawA.outcomes_breakdown 
+              : prev.outcomes_breakdown,
+          }));
+        }
       } catch (err) {
         console.info('Running in local standalone state with mock corpus.');
       }

@@ -30,12 +30,32 @@ def get_analytics():
             pass
 
     return {
+        # Flat KPI metrics expected by frontend AnalyticsSummary
+        "proposals_sent": 62,
+        "won_count": 18,
+        "replied_count": 34,
+        "interview_count": 34,
+        "hired_count": 18,
+        "reply_rate": 54.8,
+        "hire_rate": 29.0,
+        "connects_spent": 464,
+        "connects_roi": 78.4,
+        "total_revenue_usd": 36400,
+        "avg_latency_seconds": 14.8,
+        "avg_cost_per_bid_usd": 0.0012,
+        "outcomes_breakdown": {
+            "Won": 18,
+            "Replied": 16,
+            "Ignored": 20,
+            "Lost": 8
+        },
+        # Deep categorized telemetry and evaluation metrics
         "reply_and_hire_rates_by_category": {
             "machine-learning": {"reply_rate": 0.582, "hire_rate": 0.315, "connects_spent": 184, "won_revenue_usd": 14200},
             "full-stack": {"reply_rate": 0.540, "hire_rate": 0.280, "connects_spent": 160, "won_revenue_usd": 12800},
             "data-analytics": {"reply_rate": 0.510, "hire_rate": 0.260, "connects_spent": 120, "won_revenue_usd": 9400}
         },
-        "connects_roi": {
+        "connects_roi_details": {
             "total_connects_spent": 464,
             "proposals_submitted": 62,
             "interviews_secured": 34,
@@ -56,4 +76,3 @@ def get_analytics():
         "rag_benchmarks": rag_data,
         "multi_agent_comparison": arch_data
     }
-
