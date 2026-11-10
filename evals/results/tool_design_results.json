@@ -1,0 +1,23 @@
+{
+  "fine_grained": {
+    "paradigm": "Fine-Grained (18 narrow tools)",
+    "tool_count": 18,
+    "tool_selection_accuracy": 80.0,
+    "argument_accuracy": 35.0,
+    "avg_tokens_per_task": 759.1
+  },
+  "coarse": {
+    "paradigm": "Coarse (3 multi-purpose tools)",
+    "tool_count": 3,
+    "tool_selection_accuracy": 90.0,
+    "argument_accuracy": 40.0,
+    "avg_tokens_per_task": 394.0
+  },
+  "best_set": {
+    "paradigm": "Best Set (Typed MCP with optimized docstrings)",
+    "tool_count": 10,
+    "tool_selection_accuracy": 100.0,
+    "argument_accuracy": 85.0,
+    "avg_tokens_per_task": 482.6
+  }
+}

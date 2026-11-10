@@ -1,0 +1,4 @@
+Paradigm,Tool Count,Tool Selection Accuracy (%),Argument Accuracy (%),Avg Tokens Per Task
+Fine-Grained (18 narrow tools),18,80.0,35.0,759.1
+Coarse (3 multi-purpose tools),3,90.0,40.0,394.0
+Best Set (Typed MCP with optimized docstrings),10,100.0,85.0,482.6
