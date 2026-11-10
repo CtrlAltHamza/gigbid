@@ -2,6 +2,7 @@ import React from 'react';
 import { useApp } from './context/AppContext';
 import { Navbar } from './components/Navbar';
 import { Sidebar } from './components/Sidebar';
+import { ErrorBoundary } from './components/ErrorBoundary';
 import { InboxView } from './views/InboxView';
 import { JobDetailView } from './views/JobDetailView';
 import { ProposalStudioView } from './views/ProposalStudioView';
@@ -46,7 +47,9 @@ export const AppContent: React.FC = () => {
       <div className="flex flex-1">
         <Sidebar />
         <main className="flex-1 p-8 overflow-y-auto max-h-[calc(100vh-61px)]">
-          {renderView()}
+          <ErrorBoundary>
+            {renderView()}
+          </ErrorBoundary>
         </main>
       </div>
     </div>

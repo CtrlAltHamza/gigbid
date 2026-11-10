@@ -215,15 +215,15 @@ export const InboxView: React.FC = () => {
                     </p>
 
                     {/* Scam Explanatory Box if flagged */}
-                    {isScam && job.scam_reasoning && (
+                    {isScam && (job.scam_reasoning || (job.red_flags && job.red_flags.length > 0)) && (
                       <div className="p-3 rounded-xl bg-rose-950/40 border border-rose-800/80 text-rose-300 text-xs space-y-1">
                         <div className="font-bold flex items-center space-x-1.5 text-rose-200">
                           <ShieldAlert className="w-4 h-4 text-rose-400" />
                           <span>Scam Guardrail Triggered:</span>
                         </div>
-                        <p className="text-slate-300">{job.scam_reasoning}</p>
+                        <p className="text-slate-300">{job.scam_reasoning || "High-confidence off-platform scam risk detected."}</p>
                         <ul className="list-disc list-inside text-rose-300/80 text-[11px] pt-1">
-                          {job.red_flags.map((flag, idx) => (
+                          {(job.red_flags || []).map((flag, idx) => (
                             <li key={idx}>{flag}</li>
                           ))}
                         </ul>
@@ -232,7 +232,7 @@ export const InboxView: React.FC = () => {
 
                     {/* Skills pills */}
                     <div className="flex flex-wrap gap-1.5 pt-1">
-                      {job.skills.map((skill, idx) => (
+                      {(job.skills || []).map((skill, idx) => (
                         <span
                           key={idx}
                           className="bg-slate-800/80 text-slate-300 border border-slate-700/60 text-[11px] px-2 py-0.5 rounded-md"

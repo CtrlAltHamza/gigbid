@@ -34,6 +34,25 @@ app.include_router(runs_router)
 app.include_router(analytics_router)
 app.include_router(settings_router)
 
+@app.get("/")
+def root():
+    return {
+        "status": "online",
+        "service": "GigBid Copilot Backend API",
+        "version": "1.0.0",
+        "docs_url": "/docs",
+        "health_url": "/api/health",
+        "endpoints": [
+            "/api/jobs",
+            "/api/proposals",
+            "/api/approvals",
+            "/api/messages",
+            "/api/runs",
+            "/api/analytics",
+            "/api/settings"
+        ]
+    }
+
 @app.get("/health")
 @app.get("/api/health")
 def health_check():

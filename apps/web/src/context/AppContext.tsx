@@ -94,13 +94,27 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
           api.getSettings(),
           api.getAnalytics(),
         ]);
-        if (j.length) setJobs(j);
-        if (p.length) setProposals(p);
-        if (m.length) setMessages(m);
-        if (r.length) setRuns(r);
-        if (rl.length) setRules(rl);
-        setSettings(s);
-        setAnalytics(a);
+        if (Array.isArray(j) && j.length > 0) {
+          // Normalize jobs to ensure all fields are safe
+          const normalized = j.map((item: any) => ({
+            ...item,
+            skills: item.skills || item.required_skills || ["Python"],
+            red_flags: item.red_flags || item.warning_signals || [],
+            deliverables: item.deliverables || ["Architecture specification", "Implementation and testing"],
+            requirement_matches: item.requirement_matches || [],
+            fit_score: typeof item.fit_score === 'number' && item.fit_score <= 1 ? Math.round(item.fit_score * 100) : (item.fit_score || 85),
+            risk_level: item.risk_level || (item.is_scam ? 'scam' : 'safe'),
+            scam_score: item.scam_score ?? (item.risk_score || 0.1),
+            client: typeof item.client === 'string' ? item.client : (item.client_id ? `Client ${item.client_id}` : "Verified Client"),
+          }));
+          setJobs(normalized);
+        }
+        if (Array.isArray(p) && p.length > 0) setProposals(p);
+        if (Array.isArray(m) && m.length > 0) setMessages(m);
+        if (Array.isArray(r) && r.length > 0) setRuns(r);
+        if (Array.isArray(rl) && rl.length > 0) setRules(rl);
+        if (s && typeof s === 'object') setSettings(prev => ({ ...prev, ...s }));
+        if (a && typeof a === 'object') setAnalytics(prev => ({ ...prev, ...a }));
       } catch (err) {
         console.info('Running in local standalone state with mock corpus.');
       }

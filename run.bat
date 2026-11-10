@@ -13,3 +13,4 @@ echo.
 echo GigBid is starting! 
 echo Open your browser to: http://localhost:3000
 echo ========================================================
+

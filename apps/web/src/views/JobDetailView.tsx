@@ -97,7 +97,7 @@ export const JobDetailView: React.FC = () => {
             <div className="space-y-2 pt-2">
               <h3 className="text-xs font-bold uppercase tracking-wider text-slate-400">Target Deliverables</h3>
               <ul className="space-y-1.5">
-                {job.deliverables.map((deliv, idx) => (
+                {(job.deliverables || []).map((deliv, idx) => (
                   <li key={idx} className="flex items-start space-x-2 text-xs text-slate-300">
                     <CheckCircle className="w-4 h-4 text-indigo-400 shrink-0 mt-0.5" />
                     <span>{deliv}</span>
@@ -110,7 +110,7 @@ export const JobDetailView: React.FC = () => {
             <div className="pt-2">
               <h3 className="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2">Required Tech Stack</h3>
               <div className="flex flex-wrap gap-1.5">
-                {job.skills.map((s, idx) => (
+                {(job.skills || []).map((s, idx) => (
                   <span key={idx} className="bg-slate-800 text-indigo-300 border border-slate-700 text-xs px-2.5 py-1 rounded-md">
                     {s}
                   </span>
@@ -131,7 +131,7 @@ export const JobDetailView: React.FC = () => {
               <span className="text-xs text-slate-400">Retriever: V4 Outcome-Aware + Cross-Encoder</span>
             </div>
 
-            {job.requirement_matches.length === 0 ? (
+            {(!job.requirement_matches || job.requirement_matches.length === 0) ? (
               <div className="bg-slate-950/60 p-6 rounded-xl text-center text-xs text-slate-400 border border-slate-800">
                 No verified evidence matches found for this job (or job was flagged as scam).
               </div>
@@ -147,7 +147,7 @@ export const JobDetailView: React.FC = () => {
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-slate-800/80">
-                    {job.requirement_matches.map((match, idx) => (
+                    {(job.requirement_matches || []).map((match, idx) => (
                       <tr key={idx} className="hover:bg-slate-800/30 transition">
                         <td className="py-3 px-3 font-medium text-slate-200 align-top max-w-[160px]">
                           {match.requirement}
@@ -208,7 +208,7 @@ export const JobDetailView: React.FC = () => {
                 <p className="text-xs text-rose-300 leading-relaxed">{job.scam_reasoning}</p>
                 <div className="text-xs font-semibold text-rose-200 pt-1">Red Flags:</div>
                 <ul className="space-y-1 text-xs text-rose-300/90 list-disc list-inside">
-                  {job.red_flags.map((flag, idx) => (
+                  {(job.red_flags || []).map((flag, idx) => (
                     <li key={idx}>{flag}</li>
                   ))}
                 </ul>

@@ -16,3 +16,4 @@ Write-Host "http://localhost:3000" -ForegroundColor Cyan
 Write-Host "Swagger API docs at:  " -NoNewline
 Write-Host "http://localhost:8000/docs" -ForegroundColor Cyan
 Write-Host "========================================================`n" -ForegroundColor Cyan
+
