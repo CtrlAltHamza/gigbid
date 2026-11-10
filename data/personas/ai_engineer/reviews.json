@@ -1,0 +1,252 @@
+[
+  {
+    "review_id": "rev-ai_engineer-001",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Switzerland",
+    "client_industry": "HealthTech",
+    "rating": 4.9,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 600,
+    "date": "2024-10-02"
+  },
+  {
+    "review_id": "rev-ai_engineer-002",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Switzerland",
+    "client_industry": "E-commerce",
+    "rating": 5.0,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 2500,
+    "date": "2024-02-02"
+  },
+  {
+    "review_id": "rev-ai_engineer-003",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Canada",
+    "client_industry": "E-commerce",
+    "rating": 4.9,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 7500,
+    "date": "2024-02-08"
+  },
+  {
+    "review_id": "rev-ai_engineer-004",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from US",
+    "client_industry": "FinTech",
+    "rating": 5.0,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 4000,
+    "date": "2024-09-13"
+  },
+  {
+    "review_id": "rev-ai_engineer-005",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from US",
+    "client_industry": "Cybersecurity",
+    "rating": 5.0,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 600,
+    "date": "2024-03-11"
+  },
+  {
+    "review_id": "rev-ai_engineer-006",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Germany",
+    "client_industry": "SaaS",
+    "rating": 4.9,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 600,
+    "date": "2024-11-23"
+  },
+  {
+    "review_id": "rev-ai_engineer-007",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from UK",
+    "client_industry": "HealthTech",
+    "rating": 4.9,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 4000,
+    "date": "2024-12-20"
+  },
+  {
+    "review_id": "rev-ai_engineer-008",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Germany",
+    "client_industry": "HealthTech",
+    "rating": 4.9,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 2500,
+    "date": "2024-12-03"
+  },
+  {
+    "review_id": "rev-ai_engineer-009",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from UK",
+    "client_industry": "FinTech",
+    "rating": 5.0,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 1200,
+    "date": "2024-03-15"
+  },
+  {
+    "review_id": "rev-ai_engineer-010",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Germany",
+    "client_industry": "Cybersecurity",
+    "rating": 4.9,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 600,
+    "date": "2024-01-06"
+  },
+  {
+    "review_id": "rev-ai_engineer-011",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Canada",
+    "client_industry": "FinTech",
+    "rating": 4.8,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 600,
+    "date": "2024-06-07"
+  },
+  {
+    "review_id": "rev-ai_engineer-012",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from UK",
+    "client_industry": "E-commerce",
+    "rating": 5.0,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 7500,
+    "date": "2024-05-15"
+  },
+  {
+    "review_id": "rev-ai_engineer-013",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Switzerland",
+    "client_industry": "E-commerce",
+    "rating": 4.8,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 2500,
+    "date": "2024-01-27"
+  },
+  {
+    "review_id": "rev-ai_engineer-014",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Canada",
+    "client_industry": "FinTech",
+    "rating": 5.0,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 1200,
+    "date": "2024-03-15"
+  },
+  {
+    "review_id": "rev-ai_engineer-015",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Switzerland",
+    "client_industry": "Cybersecurity",
+    "rating": 4.8,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 2500,
+    "date": "2024-12-24"
+  },
+  {
+    "review_id": "rev-ai_engineer-016",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Switzerland",
+    "client_industry": "E-commerce",
+    "rating": 4.9,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 1200,
+    "date": "2024-11-25"
+  },
+  {
+    "review_id": "rev-ai_engineer-017",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from US",
+    "client_industry": "FinTech",
+    "rating": 4.8,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 4000,
+    "date": "2024-05-22"
+  },
+  {
+    "review_id": "rev-ai_engineer-018",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Switzerland",
+    "client_industry": "HealthTech",
+    "rating": 5.0,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 600,
+    "date": "2024-04-23"
+  },
+  {
+    "review_id": "rev-ai_engineer-019",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Switzerland",
+    "client_industry": "FinTech",
+    "rating": 4.8,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 2500,
+    "date": "2024-03-02"
+  },
+  {
+    "review_id": "rev-ai_engineer-020",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from UK",
+    "client_industry": "SaaS",
+    "rating": 4.8,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 7500,
+    "date": "2024-12-25"
+  },
+  {
+    "review_id": "rev-ai_engineer-021",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Germany",
+    "client_industry": "FinTech",
+    "rating": 4.8,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 2500,
+    "date": "2024-11-20"
+  },
+  {
+    "review_id": "rev-ai_engineer-022",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from US",
+    "client_industry": "HealthTech",
+    "rating": 5.0,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 2500,
+    "date": "2024-10-20"
+  },
+  {
+    "review_id": "rev-ai_engineer-023",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from UK",
+    "client_industry": "Cybersecurity",
+    "rating": 4.9,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 1200,
+    "date": "2024-06-22"
+  },
+  {
+    "review_id": "rev-ai_engineer-024",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from Switzerland",
+    "client_industry": "E-commerce",
+    "rating": 4.8,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 2500,
+    "date": "2024-07-03"
+  },
+  {
+    "review_id": "rev-ai_engineer-025",
+    "freelancer_id": "ai_engineer",
+    "client_name": "Client from US",
+    "client_industry": "FinTech",
+    "rating": 4.9,
+    "review_text": "Alex Rivera is an exceptional engineer. Delivered the project ahead of schedule with flawless code quality, clear documentation, and great communication.",
+    "project_budget_usd": 4000,
+    "date": "2024-10-19"
+  }
+]

@@ -1,0 +1,692 @@
+[
+  {
+    "client_id": "client-001",
+    "name": "Hiring Lead at FinPulse Analytics #1",
+    "company_type": "Startup",
+    "country": "Singapore",
+    "completed_projects": 19,
+    "total_spent_usd": 27762.95,
+    "average_rating": 4.22,
+    "payment_verified": true,
+    "member_since": "2021-10-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "TypeScript",
+        "Python"
+      ],
+      "budget_ceiling": 750,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.36,
+      "hire_probability_base": 0.24
+    }
+  },
+  {
+    "client_id": "client-002",
+    "name": "Hiring Lead at EduLearn Global #2",
+    "company_type": "Agency",
+    "country": "United Kingdom",
+    "completed_projects": 37,
+    "total_spent_usd": 49463.88,
+    "average_rating": 4.68,
+    "payment_verified": true,
+    "member_since": "2024-10-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "scikit-learn",
+        "Python"
+      ],
+      "budget_ceiling": 6000,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.58,
+      "hire_probability_base": 0.23
+    }
+  },
+  {
+    "client_id": "client-003",
+    "name": "Hiring Lead at Nexus Logistics #3",
+    "company_type": "Startup",
+    "country": "United States",
+    "completed_projects": 11,
+    "total_spent_usd": 15194.82,
+    "average_rating": 4.47,
+    "payment_verified": true,
+    "member_since": "2024-02-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "Next.js"
+      ],
+      "budget_ceiling": 1200,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.53,
+      "hire_probability_base": 0.36
+    }
+  },
+  {
+    "client_id": "client-004",
+    "name": "Hiring Lead at DevFlow Tools #4",
+    "company_type": "Enterprise",
+    "country": "Australia",
+    "completed_projects": 26,
+    "total_spent_usd": 26331.77,
+    "average_rating": 4.63,
+    "payment_verified": true,
+    "member_since": "2022-12-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "React",
+        "Python"
+      ],
+      "budget_ceiling": 1200,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.55,
+      "hire_probability_base": 0.35
+    }
+  },
+  {
+    "client_id": "client-005",
+    "name": "Hiring Lead at FinPulse Analytics #5",
+    "company_type": "Enterprise",
+    "country": "United Kingdom",
+    "completed_projects": 8,
+    "total_spent_usd": 14610.73,
+    "average_rating": 4.88,
+    "payment_verified": true,
+    "member_since": "2023-06-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "scikit-learn"
+      ],
+      "budget_ceiling": 2000,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.56,
+      "hire_probability_base": 0.34
+    }
+  },
+  {
+    "client_id": "client-006",
+    "name": "Hiring Lead at FinPulse Analytics #6",
+    "company_type": "Mid-market",
+    "country": "Canada",
+    "completed_projects": 12,
+    "total_spent_usd": 26906.13,
+    "average_rating": 4.69,
+    "payment_verified": true,
+    "member_since": "2024-05-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Next.js",
+        "Docker"
+      ],
+      "budget_ceiling": 750,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.56,
+      "hire_probability_base": 0.37
+    }
+  },
+  {
+    "client_id": "client-007",
+    "name": "Hiring Lead at Acme Health #7",
+    "company_type": "Enterprise",
+    "country": "United States",
+    "completed_projects": 4,
+    "total_spent_usd": 11894.49,
+    "average_rating": 4.38,
+    "payment_verified": true,
+    "member_since": "2022-10-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "Docker"
+      ],
+      "budget_ceiling": 2000,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.55,
+      "hire_probability_base": 0.28
+    }
+  },
+  {
+    "client_id": "client-008",
+    "name": "Hiring Lead at DevFlow Tools #8",
+    "company_type": "Enterprise",
+    "country": "Singapore",
+    "completed_projects": 10,
+    "total_spent_usd": 14658.94,
+    "average_rating": 4.31,
+    "payment_verified": true,
+    "member_since": "2024-10-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "TypeScript",
+        "FastAPI"
+      ],
+      "budget_ceiling": 3500,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.42,
+      "hire_probability_base": 0.4
+    }
+  },
+  {
+    "client_id": "client-009",
+    "name": "Hiring Lead at EduLearn Global #9",
+    "company_type": "Mid-market",
+    "country": "Singapore",
+    "completed_projects": 5,
+    "total_spent_usd": 15624.89,
+    "average_rating": 4.59,
+    "payment_verified": true,
+    "member_since": "2024-10-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "React",
+        "TypeScript"
+      ],
+      "budget_ceiling": 750,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.46,
+      "hire_probability_base": 0.4
+    }
+  },
+  {
+    "client_id": "client-010",
+    "name": "Hiring Lead at EduLearn Global #10",
+    "company_type": "Startup",
+    "country": "Singapore",
+    "completed_projects": 37,
+    "total_spent_usd": 115591.89,
+    "average_rating": 4.4,
+    "payment_verified": true,
+    "member_since": "2023-11-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "React"
+      ],
+      "budget_ceiling": 400,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.44,
+      "hire_probability_base": 0.23
+    }
+  },
+  {
+    "client_id": "client-011",
+    "name": "Hiring Lead at Acme Health #11",
+    "company_type": "Startup",
+    "country": "Singapore",
+    "completed_projects": 18,
+    "total_spent_usd": 61633.76,
+    "average_rating": 4.96,
+    "payment_verified": true,
+    "member_since": "2023-11-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Next.js",
+        "Docker"
+      ],
+      "budget_ceiling": 750,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.4,
+      "hire_probability_base": 0.35
+    }
+  },
+  {
+    "client_id": "client-012",
+    "name": "Hiring Lead at EduLearn Global #12",
+    "company_type": "Enterprise",
+    "country": "Canada",
+    "completed_projects": 35,
+    "total_spent_usd": 114797.64,
+    "average_rating": 4.96,
+    "payment_verified": true,
+    "member_since": "2021-02-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "scikit-learn"
+      ],
+      "budget_ceiling": 3500,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.42,
+      "hire_probability_base": 0.25
+    }
+  },
+  {
+    "client_id": "client-013",
+    "name": "Hiring Lead at SafeVault Security #13",
+    "company_type": "Mid-market",
+    "country": "United Kingdom",
+    "completed_projects": 7,
+    "total_spent_usd": 19433.05,
+    "average_rating": 4.96,
+    "payment_verified": true,
+    "member_since": "2024-09-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PostgreSQL",
+        "scikit-learn"
+      ],
+      "budget_ceiling": 400,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.51,
+      "hire_probability_base": 0.32
+    }
+  },
+  {
+    "client_id": "client-014",
+    "name": "Hiring Lead at RetailSphere #14",
+    "company_type": "Enterprise",
+    "country": "Canada",
+    "completed_projects": 14,
+    "total_spent_usd": 38149.47,
+    "average_rating": 4.94,
+    "payment_verified": true,
+    "member_since": "2024-02-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "Next.js"
+      ],
+      "budget_ceiling": 2000,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.37,
+      "hire_probability_base": 0.2
+    }
+  },
+  {
+    "client_id": "client-015",
+    "name": "Hiring Lead at EduLearn Global #15",
+    "company_type": "Startup",
+    "country": "United Kingdom",
+    "completed_projects": 16,
+    "total_spent_usd": 13110.64,
+    "average_rating": 4.38,
+    "payment_verified": true,
+    "member_since": "2021-01-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "React"
+      ],
+      "budget_ceiling": 6000,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.5,
+      "hire_probability_base": 0.26
+    }
+  },
+  {
+    "client_id": "client-016",
+    "name": "Hiring Lead at DevFlow Tools #16",
+    "company_type": "Agency",
+    "country": "United Kingdom",
+    "completed_projects": 10,
+    "total_spent_usd": 27530.52,
+    "average_rating": 4.37,
+    "payment_verified": true,
+    "member_since": "2024-07-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "React"
+      ],
+      "budget_ceiling": 3500,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.38,
+      "hire_probability_base": 0.29
+    }
+  },
+  {
+    "client_id": "client-017",
+    "name": "Hiring Lead at Nexus Logistics #17",
+    "company_type": "Startup",
+    "country": "United States",
+    "completed_projects": 5,
+    "total_spent_usd": 13090.42,
+    "average_rating": 4.53,
+    "payment_verified": true,
+    "member_since": "2024-12-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "React"
+      ],
+      "budget_ceiling": 6000,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.42,
+      "hire_probability_base": 0.24
+    }
+  },
+  {
+    "client_id": "client-018",
+    "name": "Hiring Lead at DevFlow Tools #18",
+    "company_type": "Startup",
+    "country": "Canada",
+    "completed_projects": 13,
+    "total_spent_usd": 20176.93,
+    "average_rating": 4.31,
+    "payment_verified": true,
+    "member_since": "2021-01-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Next.js",
+        "Python"
+      ],
+      "budget_ceiling": 750,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.64,
+      "hire_probability_base": 0.39
+    }
+  },
+  {
+    "client_id": "client-019",
+    "name": "Hiring Lead at RetailSphere #19",
+    "company_type": "Startup",
+    "country": "United Kingdom",
+    "completed_projects": 33,
+    "total_spent_usd": 69289.04,
+    "average_rating": 4.33,
+    "payment_verified": true,
+    "member_since": "2024-01-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "TypeScript",
+        "scikit-learn"
+      ],
+      "budget_ceiling": 2000,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.63,
+      "hire_probability_base": 0.36
+    }
+  },
+  {
+    "client_id": "client-020",
+    "name": "Hiring Lead at BioGen AI #20",
+    "company_type": "Mid-market",
+    "country": "United Kingdom",
+    "completed_projects": 37,
+    "total_spent_usd": 95720.94,
+    "average_rating": 4.54,
+    "payment_verified": true,
+    "member_since": "2023-04-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Python",
+        "Next.js"
+      ],
+      "budget_ceiling": 2000,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.57,
+      "hire_probability_base": 0.21
+    }
+  },
+  {
+    "client_id": "client-021",
+    "name": "Hiring Lead at SafeVault Security #21",
+    "company_type": "Startup",
+    "country": "United Kingdom",
+    "completed_projects": 35,
+    "total_spent_usd": 42877.39,
+    "average_rating": 4.58,
+    "payment_verified": true,
+    "member_since": "2021-10-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "React",
+        "Docker"
+      ],
+      "budget_ceiling": 3500,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.47,
+      "hire_probability_base": 0.39
+    }
+  },
+  {
+    "client_id": "client-022",
+    "name": "Hiring Lead at SafeVault Security #22",
+    "company_type": "Agency",
+    "country": "Singapore",
+    "completed_projects": 40,
+    "total_spent_usd": 36292.1,
+    "average_rating": 4.4,
+    "payment_verified": true,
+    "member_since": "2023-05-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "FastAPI"
+      ],
+      "budget_ceiling": 400,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.42,
+      "hire_probability_base": 0.28
+    }
+  },
+  {
+    "client_id": "client-023",
+    "name": "Hiring Lead at BioGen AI #23",
+    "company_type": "Startup",
+    "country": "United States",
+    "completed_projects": 6,
+    "total_spent_usd": 4950.91,
+    "average_rating": 4.57,
+    "payment_verified": true,
+    "member_since": "2022-09-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "scikit-learn",
+        "PostgreSQL"
+      ],
+      "budget_ceiling": 3500,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.63,
+      "hire_probability_base": 0.38
+    }
+  },
+  {
+    "client_id": "client-024",
+    "name": "Hiring Lead at RetailSphere #24",
+    "company_type": "Enterprise",
+    "country": "Australia",
+    "completed_projects": 12,
+    "total_spent_usd": 23797.18,
+    "average_rating": 4.5,
+    "payment_verified": true,
+    "member_since": "2021-11-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Next.js",
+        "scikit-learn"
+      ],
+      "budget_ceiling": 3500,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.63,
+      "hire_probability_base": 0.22
+    }
+  },
+  {
+    "client_id": "client-025",
+    "name": "Hiring Lead at CloudScale SaaS #25",
+    "company_type": "Enterprise",
+    "country": "Germany",
+    "completed_projects": 8,
+    "total_spent_usd": 22436.2,
+    "average_rating": 4.41,
+    "payment_verified": true,
+    "member_since": "2022-12-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "Docker"
+      ],
+      "budget_ceiling": 750,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.56,
+      "hire_probability_base": 0.37
+    }
+  },
+  {
+    "client_id": "client-026",
+    "name": "Hiring Lead at EduLearn Global #26",
+    "company_type": "Enterprise",
+    "country": "United States",
+    "completed_projects": 5,
+    "total_spent_usd": 5246.03,
+    "average_rating": 4.59,
+    "payment_verified": true,
+    "member_since": "2021-06-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PostgreSQL",
+        "scikit-learn"
+      ],
+      "budget_ceiling": 2000,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.4,
+      "hire_probability_base": 0.29
+    }
+  },
+  {
+    "client_id": "client-027",
+    "name": "Hiring Lead at Nexus Logistics #27",
+    "company_type": "Mid-market",
+    "country": "Australia",
+    "completed_projects": 9,
+    "total_spent_usd": 9028.43,
+    "average_rating": 4.65,
+    "payment_verified": true,
+    "member_since": "2021-06-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Next.js",
+        "PostgreSQL"
+      ],
+      "budget_ceiling": 6000,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.48,
+      "hire_probability_base": 0.21
+    }
+  },
+  {
+    "client_id": "client-028",
+    "name": "Hiring Lead at HyperGrowth Marketing #28",
+    "company_type": "Mid-market",
+    "country": "Singapore",
+    "completed_projects": 4,
+    "total_spent_usd": 12908.39,
+    "average_rating": 4.92,
+    "payment_verified": false,
+    "member_since": "2021-06-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Next.js",
+        "TypeScript"
+      ],
+      "budget_ceiling": 750,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.64,
+      "hire_probability_base": 0.35
+    }
+  },
+  {
+    "client_id": "client-029",
+    "name": "Hiring Lead at RetailSphere #29",
+    "company_type": "Mid-market",
+    "country": "Singapore",
+    "completed_projects": 13,
+    "total_spent_usd": 41337.71,
+    "average_rating": 4.89,
+    "payment_verified": false,
+    "member_since": "2023-07-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "scikit-learn"
+      ],
+      "budget_ceiling": 400,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.4,
+      "hire_probability_base": 0.34
+    }
+  },
+  {
+    "client_id": "client-030",
+    "name": "Hiring Lead at Nexus Logistics #30",
+    "company_type": "Enterprise",
+    "country": "Germany",
+    "completed_projects": 32,
+    "total_spent_usd": 44818.27,
+    "average_rating": 4.9,
+    "payment_verified": false,
+    "member_since": "2022-04-15",
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Python",
+        "Docker"
+      ],
+      "budget_ceiling": 2000,
+      "dislikes_generic_openings": true,
+      "dislikes_missing_evidence": true,
+      "min_freelancer_rating": 4.5,
+      "reply_probability_base": 0.47,
+      "hire_probability_base": 0.26
+    }
+  }
+]

@@ -1,0 +1,2087 @@
+[
+  {
+    "proposal_id": "past-prop-data_analyst-001",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #1",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 6,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-02-02"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-002",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #2",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-08-17"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-003",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #3",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-12-12"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-004",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #4",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 12,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-12-20"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-005",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #5",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-02-15"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-006",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #6",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-05-23"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-007",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #7",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-04-20"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-008",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #8",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 6,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-02-19"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-009",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #9",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-05-23"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-010",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #10",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 8,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-10-11"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-011",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #11",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-02-06"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-012",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #12",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 6,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-08-13"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-013",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #13",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 8,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-04-18"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-014",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #14",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 10,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-03-01"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-015",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #15",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 8,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-03-05"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-016",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #16",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-03-13"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-017",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #17",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 8,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-05-19"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-018",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #18",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 10,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-04-24"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-019",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #19",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-09-27"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-020",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #20",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 6,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-05-10"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-021",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #21",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 8,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-01-10"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-022",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #22",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-08-17"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-023",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #23",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-06-01"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-024",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #24",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 8,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-01-26"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-025",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #25",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 6,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-06-20"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-026",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #26",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 10,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-11-12"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-027",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #27",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-06-07"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-028",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #28",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 10,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-05-20"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-029",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #29",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 6,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-07-21"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-030",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #30",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 6,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-10-24"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-031",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #31",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 8,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-04-09"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-032",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #32",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 6,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-08-16"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-033",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #33",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 8,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-03-12"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-034",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #34",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 12,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-01-14"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-035",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #35",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-06-18"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-036",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #36",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-10-05"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-037",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #37",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-06-19"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-038",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #38",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 6,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-10-10"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-039",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #39",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 4,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-06-28"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-040",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #40",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 10,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-01-05"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-041",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #41",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 12,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-06-25"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-042",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #42",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 12,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-04-14"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-043",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #43",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 6,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-11-24"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-044",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #44",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 6,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-07-06"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-045",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #45",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 12,
+    "outcome": "won",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-05-22"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-046",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #46",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-07-13"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-047",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #47",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 4,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-11-09"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-048",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #48",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-01-21"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-049",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #49",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-02-07"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-050",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #50",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-02-08"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-051",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #51",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-01-09"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-052",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #52",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-04-23"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-053",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #53",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-11-03"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-054",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #54",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-02-27"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-055",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #55",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-06-24"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-056",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #56",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 8,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-11-04"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-057",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #57",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 8,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-03-28"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-058",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #58",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 10,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-07-18"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-059",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #59",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 10,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-05-01"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-060",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #60",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 4,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-02-17"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-061",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #61",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 8,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-09-18"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-062",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #62",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 4,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-05-10"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-063",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #63",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-01-02"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-064",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #64",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 10,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-10-17"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-065",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #65",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 10,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-11-17"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-066",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #66",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 10,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-06-17"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-067",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #67",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 8,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-07-21"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-068",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #68",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 10,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-07-24"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-069",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #69",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 8,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-02-20"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-070",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #70",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 10,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-03-07"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-071",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #71",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 8,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-03-04"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-072",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #72",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-12-14"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-073",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #73",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-02-07"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-074",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #74",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-05-23"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-075",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #75",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 4,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-05-06"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-076",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #76",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-09-07"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-077",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #77",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 4,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-12-16"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-078",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #78",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-12-28"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-079",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #79",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 4,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-08-28"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-080",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #80",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-03-27"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-081",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #81",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 10,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-10-20"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-082",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #82",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-10-23"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-083",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #83",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-11-06"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-084",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #84",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-04-04"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-085",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #85",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-01-08"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-086",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #86",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 10,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-07-01"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-087",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #87",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-01-02"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-088",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #88",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 4,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-04-24"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-089",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #89",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-06-07"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-090",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #90",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 12,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-04-28"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-091",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #91",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 4,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-06-21"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-092",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #92",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 4,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-03-09"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-093",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #93",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-04-18"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-094",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #94",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 4,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-09-23"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-095",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #95",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 6,
+    "outcome": "replied",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [
+      "cs-da-01",
+      "cs-da-02"
+    ],
+    "submitted_date": "2024-10-06"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-096",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #96",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-01-02"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-097",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #97",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-09-23"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-098",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #98",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-08-25"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-099",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #99",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-04-06"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-100",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #100",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-09-20"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-101",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #101",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-04-07"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-102",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #102",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-12-03"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-103",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #103",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-11-04"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-104",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #104",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-03-13"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-105",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #105",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-04-14"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-106",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #106",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-02-01"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-107",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #107",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 4,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-03-22"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-108",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #108",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-04-08"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-109",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #109",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-02-22"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-110",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #110",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-12-08"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-111",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #111",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 8,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-08-24"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-112",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #112",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-02-17"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-113",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #113",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-12-25"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-114",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #114",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 4,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-08-16"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-115",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #115",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-11-02"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-116",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #116",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-12-12"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-117",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #117",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-01-21"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-118",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #118",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-02-28"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-119",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #119",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 8,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-02-20"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-120",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #120",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 6,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-10-15"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-121",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #121",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-08-17"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-122",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #122",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 4,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-10-14"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-123",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #123",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-11-08"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-124",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #124",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-05-12"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-125",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #125",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-12-22"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-126",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #126",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 4,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-12-05"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-127",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #127",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-06-23"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-128",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #128",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-07-25"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-129",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #129",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 6,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-06-19"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-130",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #130",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 4,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-06-15"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-131",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #131",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 6,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-10-17"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-132",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #132",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-03-11"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-133",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #133",
+    "category": "data-analytics",
+    "bid_amount_usd": 600,
+    "connects_spent": 8,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-10-09"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-134",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #134",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-11-01"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-135",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #135",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-05-05"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-136",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #136",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-01-15"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-137",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #137",
+    "category": "data-analytics",
+    "bid_amount_usd": 3500,
+    "connects_spent": 8,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-08-05"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-138",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #138",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-07-19"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-139",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #139",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 8,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-08-19"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-140",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #140",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-08-01"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-141",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #141",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-09-26"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-142",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #142",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-05-22"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-143",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #143",
+    "category": "data-analytics",
+    "bid_amount_usd": 950,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-09-12"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-144",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #144",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-05-13"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-145",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #145",
+    "category": "data-analytics",
+    "bid_amount_usd": 350,
+    "connects_spent": 8,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-09-07"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-146",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #146",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-05-04"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-147",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #147",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-04-10"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-148",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #148",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 10,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-11-11"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-149",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #149",
+    "category": "data-analytics",
+    "bid_amount_usd": 1400,
+    "connects_spent": 6,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-12-19"
+  },
+  {
+    "proposal_id": "past-prop-data_analyst-150",
+    "freelancer_id": "data_analyst",
+    "job_title": "Data Analytics Contract #150",
+    "category": "data-analytics",
+    "bid_amount_usd": 2200,
+    "connects_spent": 12,
+    "outcome": "ignored",
+    "cover_letter_snippet": "Hello, I read your requirements for data-analytics development. In my past project CS-DA-01, I built a similar system that achieved 94% precision. I can deliver this within your budget.",
+    "evidence_cited": [],
+    "submitted_date": "2024-02-13"
+  }
+]
