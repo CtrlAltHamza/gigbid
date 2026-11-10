@@ -1,0 +1,80 @@
+{
+  "V0": {
+    "variant_id": "V0",
+    "description": "Naive dense top-k cosine",
+    "evidence_recall_at_5": 0.15,
+    "ndcg_at_10": 0.064,
+    "mrr": 0.037,
+    "unsupported_claims_before": 0.717,
+    "unsupported_claims_after": 0.0,
+    "judge_score": 3.27,
+    "gigsim_reply_rate": 0.268,
+    "p95_latency_s": 0.0788,
+    "cost_per_proposal_usd": 0.0012
+  },
+  "V1": {
+    "variant_id": "V1",
+    "description": "Requirement decomposition + RRF",
+    "evidence_recall_at_5": 0.2,
+    "ndcg_at_10": 0.126,
+    "mrr": 0.101,
+    "unsupported_claims_before": 0.717,
+    "unsupported_claims_after": 0.0,
+    "judge_score": 3.36,
+    "gigsim_reply_rate": 0.29,
+    "p95_latency_s": 0.0785,
+    "cost_per_proposal_usd": 0.0012
+  },
+  "V2": {
+    "variant_id": "V2",
+    "description": "Hybrid BM25 + dense RRF",
+    "evidence_recall_at_5": 0.167,
+    "ndcg_at_10": 0.073,
+    "mrr": 0.043,
+    "unsupported_claims_before": 0.723,
+    "unsupported_claims_after": 0.0,
+    "judge_score": 3.3,
+    "gigsim_reply_rate": 0.275,
+    "p95_latency_s": 0.1804,
+    "cost_per_proposal_usd": 0.0012
+  },
+  "V3": {
+    "variant_id": "V3",
+    "description": "Cross-encoder reranking",
+    "evidence_recall_at_5": 0.217,
+    "ndcg_at_10": 0.106,
+    "mrr": 0.07,
+    "unsupported_claims_before": 0.717,
+    "unsupported_claims_after": 0.0,
+    "judge_score": 3.39,
+    "gigsim_reply_rate": 0.298,
+    "p95_latency_s": 0.2245,
+    "cost_per_proposal_usd": 0.0016
+  },
+  "V4": {
+    "variant_id": "V4",
+    "description": "Outcome-aware ranking",
+    "evidence_recall_at_5": 0.167,
+    "ndcg_at_10": 0.073,
+    "mrr": 0.043,
+    "unsupported_claims_before": 0.723,
+    "unsupported_claims_after": 0.0,
+    "judge_score": 3.3,
+    "gigsim_reply_rate": 0.275,
+    "p95_latency_s": 0.3129,
+    "cost_per_proposal_usd": 0.0012
+  },
+  "V8": {
+    "variant_id": "V8",
+    "description": "Corrective Self-RAG loop",
+    "evidence_recall_at_5": 0.167,
+    "ndcg_at_10": 0.073,
+    "mrr": 0.043,
+    "unsupported_claims_before": 0.723,
+    "unsupported_claims_after": 0.0,
+    "judge_score": 3.3,
+    "gigsim_reply_rate": 0.275,
+    "p95_latency_s": 0.2164,
+    "cost_per_proposal_usd": 0.0012
+  }
+}

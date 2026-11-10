@@ -1,0 +1,7 @@
+Variant,Description,Recall@5,nDCG@10,MRR,Unsupported Claims Before,Unsupported Claims After,Judge Score,GigSim Reply Rate,p95 Latency (s),Cost Per Proposal (USD)
+V0,Naive dense top-k cosine,0.15,0.064,0.037,0.717,0.0,3.27,0.268,0.0788,0.0012
+V1,Requirement decomposition + RRF,0.2,0.126,0.101,0.717,0.0,3.36,0.29,0.0785,0.0012
+V2,Hybrid BM25 + dense RRF,0.167,0.073,0.043,0.723,0.0,3.3,0.275,0.1804,0.0012
+V3,Cross-encoder reranking,0.217,0.106,0.07,0.717,0.0,3.39,0.298,0.2245,0.0016
+V4,Outcome-aware ranking,0.167,0.073,0.043,0.723,0.0,3.3,0.275,0.3129,0.0012
+V8,Corrective Self-RAG loop,0.167,0.073,0.043,0.723,0.0,3.3,0.275,0.2164,0.0012

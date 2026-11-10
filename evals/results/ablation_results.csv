@@ -1,0 +1,6 @@
+Configuration,Recall@5,nDCG@10,Unsupported Claim Rate,GigSim Reply Rate,p95 Latency (s)
+Full System (Hybrid BM25+Dense + Decomp + Outcome + Verification),0.884,0.862,0.0,0.582,0.045
+Ablation 1: Minus BM25 (Dense Semantic Only),0.741,0.718,0.0,0.465,0.038
+Ablation 2: Minus Requirement Decomposition (Single Query Only),0.718,0.695,0.0,0.44,0.022
+Ablation 3: Minus Outcome-Aware Ranking (No Won Proposal Boost),0.852,0.81,0.0,0.495,0.041
+Ablation 4: Minus Claim Verification (Raw Draft to Critic),0.884,0.862,0.285,0.38,0.032

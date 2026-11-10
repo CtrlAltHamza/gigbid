@@ -1,0 +1,42 @@
+[
+  {
+    "configuration": "Full System (Hybrid BM25+Dense + Decomp + Outcome + Verification)",
+    "recall_at_5": 0.884,
+    "ndcg_at_10": 0.862,
+    "unsupported_claim_rate": 0.0,
+    "gigsim_reply_rate": 0.582,
+    "p95_latency_s": 0.045
+  },
+  {
+    "configuration": "Ablation 1: Minus BM25 (Dense Semantic Only)",
+    "recall_at_5": 0.741,
+    "ndcg_at_10": 0.718,
+    "unsupported_claim_rate": 0.0,
+    "gigsim_reply_rate": 0.465,
+    "p95_latency_s": 0.038
+  },
+  {
+    "configuration": "Ablation 2: Minus Requirement Decomposition (Single Query Only)",
+    "recall_at_5": 0.718,
+    "ndcg_at_10": 0.695,
+    "unsupported_claim_rate": 0.0,
+    "gigsim_reply_rate": 0.44,
+    "p95_latency_s": 0.022
+  },
+  {
+    "configuration": "Ablation 3: Minus Outcome-Aware Ranking (No Won Proposal Boost)",
+    "recall_at_5": 0.852,
+    "ndcg_at_10": 0.81,
+    "unsupported_claim_rate": 0.0,
+    "gigsim_reply_rate": 0.495,
+    "p95_latency_s": 0.041
+  },
+  {
+    "configuration": "Ablation 4: Minus Claim Verification (Raw Draft to Critic)",
+    "recall_at_5": 0.884,
+    "ndcg_at_10": 0.862,
+    "unsupported_claim_rate": 0.285,
+    "gigsim_reply_rate": 0.38,
+    "p95_latency_s": 0.032
+  }
+]
