@@ -35,6 +35,7 @@ app.include_router(analytics_router)
 app.include_router(settings_router)
 
 @app.get("/health")
+@app.get("/api/health")
 def health_check():
     return {
         "status": "healthy",
